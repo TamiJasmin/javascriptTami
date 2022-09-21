@@ -1,0 +1,56 @@
+*{
+    
+        margin: 0;
+        padding: 0;
+        border: 0;
+        font-size: 100%;
+        font: inherit;
+        vertical-align: baseline;
+}
+
+
+.posicionar {
+    display: block;
+}
+
+body{
+    background-image: url(/Imágenes/istockphoto-517671981-170667a.jpeg);
+    background-size: cover;
+}
+
+
+.colorNav{
+    display: flex;
+    justify-content: center;
+    color: #8F3A99;
+}
+
+h1{
+    color: #8F3A99;
+    display: flex;
+    justify-content: center;
+
+    }
+
+
+.spoti{
+    display: flex;
+    justify-content: center;
+    margin: 20px 0px 20px 0px;
+}
+
+footer{
+    background-color: #8F3A99;
+    width: 100%;
+    height: 40px;
+}
+
+.songOne{
+    display: flex;
+    justify-content: center;
+}
+
+p{
+    font-family: 'Oswald', sans-serif;
+    font-size: 20px;
+}
